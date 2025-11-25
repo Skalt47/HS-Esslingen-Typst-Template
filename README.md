@@ -4,7 +4,7 @@ The documentation for this software project is written as a [typst document](htt
 
 ## Export PDF
 
-Exporting the PDF can be done inside the `documentation` folder with the command:
+Exporting the PDF can be done inside the folder where [main.typ](main.typ) is found with the command:
 
 ```console
 typst compile main.typ
